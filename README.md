@@ -1,4 +1,4 @@
-# Smart General
+# tidy_space
 
 A Python automation script that can be used as a handy tool for organizing a given directory full of different files into seperate folders depending on file types.
 
