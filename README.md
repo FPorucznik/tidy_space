@@ -11,7 +11,7 @@ A Python automation script that can be used as a handy tool for organizing a giv
 **Clone repo and head to script location**
 
 ```
-git clone https://github.com/FPorucznik/smart_general.git
+git clone https://github.com/FPorucznik/tidy_space.git
 cd tidy_space
 ```
 
